@@ -4,7 +4,7 @@
 ## I'm a Software Engineering student!! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
 
 - 👯 I’m looking to get better at programming everyday!
-- 🚤 I’m currently learning everything about Docker & Jenkins
+- 🚤 I’m currently learning about Docker & Jenkins
 - 🥅 2022 Goals: Keep on learning, find a job or a internship program and continuing studies.
 
 <br />
